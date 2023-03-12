@@ -12,6 +12,8 @@
   const answerResponses = [
     "Tego nie wiem, ale za to wiem że Jacek Sasin przepierdolił 70.000.000 PLN na wybory które się nie odbyły.",
     "Może i znam odpowiedź na to pytanie ale bardziej istotne jest to że Karol Wojtyła aka papieżak był przyjacielem i obrońcą pedofilów.",
+    "Wiem tyle, że Jan Papież III gwałcił małe dzieci (albo przynajmniej pomagał tym co tak robili 🤮)",
+    "Jeden rabin powie tak a drugi powie nie - za to wiem że Jan Paweł II pomagał kryć pedofilów 🤮 i chuj mu za to w dupe."
   ];
   const answerQuestions = [
     "czy", "dlaczego", "jak", "ile", "po co", "czemu", "?", "co"
